@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "toma",
+  "base_artist": "クレイジーウォウウォ！！",
+  "createdAt": "2026-02-09T12:28:44.835726Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Toma La Luna",
+      "artist": "Eros Ramazzotti",
+      "has_synced": true,
+      "path": "select/01_Toma_La_Luna_Eros_Ramazzotti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "El Charro - Toma 2",
+      "artist": "Pedro Infante",
+      "has_synced": true,
+      "path": "select/02_El_Charro_-_Toma_2_Pedro_Infante.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BABA (Toma Tussi)",
+      "artist": "Russ Millions",
+      "has_synced": true,
+      "path": "select/03_BABA_(Toma_Tussi)_Russ_Millions.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Toma",
+      "artist": "Pitbull feat. Lil Jon",
+      "has_synced": true,
+      "path": "select/04_Toma_Pitbull_feat._Lil_Jon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Toma",
+      "artist": "Pitbull, Lil Jon",
+      "has_synced": true,
+      "path": "select/05_Toma_Pitbull,_Lil_Jon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ponoć - Pesma iz filma \"Toma\"",
+      "artist": "Željko Joksimović feat. Aco Pejovic & Suzana Brankovic",
+      "has_synced": true,
+      "path": "select/06_Ponoć_-_Pesma_iz_filma__Toma_Željko_Joksimović_feat._Aco_Pejovic_&_Suzana_Brankovic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Toma (feat. Lil Jon)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/07_Toma_(feat._Lil_Jon)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Toma la Ruta",
+      "artist": "Soda Stereo",
+      "has_synced": false,
+      "path": "select/08_Toma_la_Ruta_Soda_Stereo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Toma Mi Mano",
+      "artist": "Belanova",
+      "has_synced": true,
+      "path": "select/09_Toma_Mi_Mano_Belanova.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Toma",
+      "artist": "Puscifer",
+      "has_synced": true,
+      "path": "select/10_Toma_Puscifer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Toma",
+      "artist": "Puscifer",
+      "has_synced": true,
+      "path": "select/11_Toma_Puscifer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Toma",
+      "artist": "Puscifer",
+      "has_synced": true,
+      "path": "select/12_Toma_Puscifer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Toma (Five Knives Burn out Remix)",
+      "artist": "Puscifer",
+      "has_synced": true,
+      "path": "select/13_Toma_(Five_Knives_Burn_out_Remix)_Puscifer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Toma",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/14_Toma_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Toma (DJ Buddha remix)",
+      "artist": "Pitbull feat. Lil' Jon, Mr. Vegas, Wayne Marshall, Red Rat, TOK & Kardinal Offishall",
+      "has_synced": false,
+      "path": "select/15_Toma_(DJ_Buddha_remix)_Pitbull_feat._Lil'_Jon,_Mr._Vegas,_Wayne_Marshall,_Red_Rat,_TOK_&_Kardinal_Offis.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Toma/Burn Out Remix",
+      "artist": "Puscifer",
+      "has_synced": true,
+      "path": "select/16_Toma_Burn_Out_Remix_Puscifer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "toma",
+      "artist": "クレイジーウォウウォ!!",
+      "has_synced": false,
+      "path": "select/pl_01_toma_クレイジーウォウウォ!!.txt"
+    }
+  ]
+}
